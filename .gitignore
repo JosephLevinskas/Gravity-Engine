@@ -1,0 +1,25 @@
+# CMake artifacts
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/build/
+
+# Visual Studio
+*.vcxproj*
+*.sln
+*.user
+*.suo
+*.vsp
+*.vcxproj.filters
+
+# Misc
+*.log
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.class
+*.DS_Store
